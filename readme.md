@@ -9,7 +9,7 @@ It is based on the works of [keestalkstech](https://keestalkstech.com/2016/07/ge
 Use the package manager [NuGet](https://www.nuget.org/) to install SimpleGoogleFitApi.
 
 ```bash
-NuGet Install-Package SimpleGoogleFitApi
+dotnet add package SimpleGoogleFitApi --version 1.0.0
 ```
 
 ## Usage
