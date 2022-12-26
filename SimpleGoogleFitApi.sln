@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGoogleFitApi", "SimpleGoogleFitApi\SimpleGoogleFitApi.csproj", "{80D19B2E-1228-4873-B0B7-7E7677BAA70A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{9DBA0B07-34AF-48C8-99D7-8DDDD476D76C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{80D19B2E-1228-4873-B0B7-7E7677BAA70A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80D19B2E-1228-4873-B0B7-7E7677BAA70A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80D19B2E-1228-4873-B0B7-7E7677BAA70A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DBA0B07-34AF-48C8-99D7-8DDDD476D76C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBA0B07-34AF-48C8-99D7-8DDDD476D76C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DBA0B07-34AF-48C8-99D7-8DDDD476D76C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DBA0B07-34AF-48C8-99D7-8DDDD476D76C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
